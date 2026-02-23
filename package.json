@@ -1,0 +1,23 @@
+{
+  "name": "lobster",
+  "version": "1.0.0",
+  "description": "OpenClaw extension skill: lobster",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:48:26.700585",
+  "type": "extension-skill",
+  "files": [
+    "openclaw.plugin.json",
+    "README.md",
+    "package.json",
+    "SKILL.md",
+    "index.ts",
+    "src/windows-spawn.test.ts",
+    "src/lobster-tool.test.ts",
+    "src/windows-spawn.ts",
+    "src/lobster-tool.ts"
+  ],
+  "file_count": 9,
+  "source": "OpenClaw Extension",
+  "location": "/opt/homebrew/Cellar/openclaw-cli/2026.2.21-2/libexec/lib/node_modules/openclaw/extensions"
+}
